@@ -1,15 +1,15 @@
 [
   {
-    "repository": "AOSPA/android_hardware_xiaomi",
+    "repository": "dustball88/android_hardware_xiaomi",
     "target_path": "hardware/xiaomi",
     "branch": "uvite"
   },
-  {
-    "repository": "Nikita-Prjkts/vendor_xiaomi_topaz",
+ {
+    "repository": "dustball88/vendor_xiaomi_topaz",
     "target_path": "vendor/xiaomi/topaz"
   },
   {
-    "repository": "crdroidandroid/android_kernel_xiaomi_topaz",
+    "repository": "dustball88/android_kernel_xiaomi_topaz",
     "target_path": "device/xiaomi/topaz-kernel"
   },
 ]
